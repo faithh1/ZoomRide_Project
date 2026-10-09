@@ -30,6 +30,7 @@ https://onecompiler.com/mysql/455g6zy54
 ---
 
 ## Dataset Tables
+[View the zoomride dataset](Data_set_Tables)
 - Trips Table
   
 Contains trip information including:
@@ -48,6 +49,7 @@ Customer ID, Customer Name
 ---
 
 ## Data Cleaning Process
+![SQL Query Result](Data_cleaning)
 - Checked Total Records
   
 QUERY:
@@ -112,6 +114,7 @@ WHERE city IN ('port harcourt', 'PORT HARCOURT', 'PH', 'Port-Harcourt');
 ---
 
 ## Analysis Performed
+![Explore the analysis performed](Analysis_performed)
 - Q1: Total Number of Trips
   
 QUERY:
@@ -179,6 +182,7 @@ ORDER BY revenue DESC;
 
 ## Key Findings
 
+![Explore the findings](Analysis_performed)
 Answers to The Manager's questions:
 
 - Which city earns the most money?
@@ -201,12 +205,19 @@ Preserved missing fare records for transparency.
 ---
 
 ## Recommendations
-There should be increase marketing efforts in the highest-performing city (Lagaos).
+- There should be increase marketing efforts in the highest-performing city (Lagaos).
 
-There should be employment of additional drivers during peak-demand months.
+- There should be employment of additional drivers during peak-demand months.
 
-There should be expansion of the most profitable vehicle category.
+- There should be expansion of the most profitable vehicle category.
 
-The implementation of validation rules to prevent duplicate trip entries should be employed.
+- The implementation of validation rules to prevent duplicate trip entries should be employed.
 
-Enforcement of standardized city naming during data entry should be mandated.
+- Enforcement of standardized city naming during data entry should be mandated.
+
+---
+
+## Conclusion
+The project highligted the importance of accurate and consistent data in generating meaningful insights. It also demonstrated how SQL queries can support evidence-based decision-making in areas such as revenue monitoring, operational planning, and customer engagement.
+
+Overall, this project strengthened my practical SQL skills and my ability to approach business problems analytically, from data preparation / cleaning to insight generation and actionable recommendations.
