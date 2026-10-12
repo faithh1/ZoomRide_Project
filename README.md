@@ -186,11 +186,11 @@ ORDER BY revenue DESC;
 Answers to The Manager's questions:
 
 - Which city earns the most money?
-  The city with the highest revenue is Lagos, generating ₦205,280 from completed trips.
+  The city with the highest revenue is Lagos, generating ₦218,890 from 93 completed trips. This makes Lagos a potential priority for targeted marketing and further business growth.
 - Which month do customers ride the most?
-  The month with the highest ride volume is 12th,2025 recording 31 completed trips.
+  The month with the highest ride volume is 12th,2025 recording 31 completed trips.The month also generated ₦66,980 in revenue, making it a useful period for examining seasonal demand and planning driver availability.
 - Which vehicle type generates the highest revenue
-  The highest-earning vehicle category is Economy, generating ₦262,550 in total revenue.
+  The highest-earning vehicle category is Economy, generating ₦262,550 in total revenue from 121 completed trips. This suggests that the category plays an important role in ZoomRide's overall revenue performance..
 
 Others:
 - Data quality issues found
@@ -219,5 +219,7 @@ Preserved missing fare records for transparency.
 
 ## Conclusion
 The project highligted the importance of accurate and consistent data in generating meaningful insights. It also demonstrated how SQL queries can support evidence-based decision-making in areas such as revenue monitoring, operational planning, and customer engagement.
+
+The findings highlighted Lagos as the leading city by revenue, December 2025 as the busiest month, and Economy as the highest-revenue vehicle category. The analysis also emphasized the importance of data quality in producing reliable reports and supporting management decisions.
 
 Overall, this project strengthened my practical SQL skills and my ability to approach business problems analytically, from data preparation / cleaning to insight generation and actionable recommendations.
